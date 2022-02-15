@@ -65,9 +65,10 @@
        margin-left: 80px;
     }
     .cont03{
-        align-items: center;
+        
         display: flex;
         flex-direction: column-reverse;
+        margin-left: -0px;
     }
     .pro-btn{
         display: flex;
@@ -75,21 +76,42 @@
         width: 400px;
     }
     .cont04{
-        align-items: center;
+        
         display: flex;
         flex-direction: column-reverse;
         width: 400px;
+        margin-left: -0px;
     }   
     .phototab{
         width: 500px;
+        margin-left: 200px;
+        
     }
     .photopc{
         width: 500px;
+        margin-left: 200px;
     }
 
     .photocel{
-        width: 500px;
+       
+        width: 700px;
+        margin-left: 200px;
     }
    
- 
+    .parrafo01{
+        margin-bottom: -50px;
+    }
+    .parrafo02{
+        margin-bottom: -50px;
+    }
+    .parrafo03{
+        margin-bottom: -50px;
+    }
+    .btn-pro{
+
+    }
+    .btn-cod{
+        
+    }
+
 }
