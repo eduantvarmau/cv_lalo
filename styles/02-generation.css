@@ -1,0 +1,33 @@
+.cont02{
+    margin: auto;
+     width: 1132px;
+     padding: 30px;
+     box-sizing: border-box;
+     margin-top: 130px;
+     margin-bottom: 120px;
+     text-align: center;
+     
+     color: var(--darkBlue);
+     line-height:  1.5;
+     letter-spacing: 1px;
+     background:rgba(0, 0, 0, 0.0);
+     border-radius: 15px;
+     
+     display: flex;
+     flex-direction: column;
+     display: block;
+ 
+     
+ 
+ }
+ 
+ .participacion{
+     font-size: 34px;
+     font-weight: lighter;
+ }
+ 
+ .compartir{
+     font-size: 24px;
+     font-weight: bold;
+    
+ }

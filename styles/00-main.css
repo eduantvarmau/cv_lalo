@@ -1,0 +1,43 @@
+@import url(./01-yo.css);
+@import url(./02-generation.css);
+@import url(./03-proyecto.css);
+@import url(./04-eri.css);
+@import url(./05-marvol.css);
+@import url(./06-jc.css);
+@import url(./07-netnet.css);
+@import url(./08-marina.css);
+@import url(./09-formulario.css);
+@import url(./10-footer.css);
+@import url(./11-media.css);
+@import url(./12-nav.css);
+
+
+
+
+:root{
+    --fontBase:'Poppins', sans-serif;
+    --darkBlue: #310A90;
+    --white: rgb(255, 255, 255);
+    
+
+}
+
+body{
+    
+    /* font family: 'Poppins, sans-serif; */
+    font-family: var(--fontBase);
+    color: var(--darkBlue);
+    background: #7F7FD5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 5% 7% 1% 7%;
+    /*width: 90%;*/
+}
+
+/*button{
+    background-color: rgb(185, 132, 235);
+}
+button:hover{
+    background-color: rgb(157, 81, 228);
+}
+*/

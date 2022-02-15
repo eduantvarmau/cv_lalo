@@ -1,0 +1,93 @@
+
+.cont01{
+    display: flex;
+    gap: 120px;
+    
+    
+}
+
+.bloq1{
+    /*width: 50%;
+    gap: 2px;
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 0px;*/
+    display: flex;
+    
+    
+}
+.bloq02{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+.saludo{
+    font-size: 24px;
+    margin: 50px 0px 30px 0px;
+}
+
+.nombre{
+    font-size: 50px;
+    font-weight: bold;
+    width: 543px;
+    height: 65px;
+    left: 0px;
+    top: 39px;
+    margin: 0px 0px 30px 0px;
+    align-items: center;
+}
+
+.descripcion{
+    margin: 0px 110px 16px 0px;
+    font-size: 18px;
+    line-height: 26px;
+  
+}
+
+
+.icono{
+    background-color: white;
+    border-style: solid;
+    border-color: var(--darkBlue);
+    border-width: 3px;
+    padding: 5px;
+    margin: 7px 7px 7px 7px;
+    
+    
+}
+
+.list-icono{
+    padding-left: 0;
+    
+}
+
+#btn-cv{
+    background-color: var(--darkBlue);
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    border: 2px;
+    width: 255px;
+    height: 49px;
+    left: 0px;
+    top: 24px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 14px;
+    position: static;
+    margin-left: 0px;
+    margin-top: 20px;
+    letter-spacing: 1.25px;
+}
+
+#btn-cv:hover{
+    cursor: pointer;
+    background-color:rgb(128, 78, 179);
+  }
+
+.icono:hover{
+    cursor: pointer;
+    background-color:rgb(128, 78, 179);
+}

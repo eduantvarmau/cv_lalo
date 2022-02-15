@@ -1,0 +1,28 @@
+.footer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    
+   
+}
+
+
+.fp{
+    color: white;
+    margin-left:70px;
+}
+
+
+
+.logof{
+justify-content: center;
+font-weight: bold;
+}
+
+.list-icono2{
+    padding-left: 0;
+   
+    
+}

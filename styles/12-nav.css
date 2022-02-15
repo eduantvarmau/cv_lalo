@@ -1,0 +1,26 @@
+#nav-bar{
+
+    padding-left: 0;
+
+
+}
+
+li{
+    padding-right: 18px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    list-style: none;
+    display: inline;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.logo{
+    font-size: 28px;
+    margin-right: 80px;
+    
+   
+    
+}
+

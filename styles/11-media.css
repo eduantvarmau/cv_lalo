@@ -1,0 +1,95 @@
+/* 12 nav*/
+    
+
+@media screen and (max-width: 600px) {
+    .n1 {
+        display: none;
+    }
+    #flex01{
+        display: block;
+    }
+    .cont01{
+        
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .bloq1{
+        display: flex;
+        flex-direction:column-reverse;
+        
+    }
+
+    .descripcion{
+        margin-top: 90px;
+    }
+    #btn-cv{
+        width: 400px;
+    }
+    
+
+    .nombre{
+        width: 400px;
+    }
+    .foto-yo{
+        align-items: center;
+        width: 300px;
+        margin-left: 50px;
+        margin-top: 55px;
+        flex-direction: column-reverse;
+    }
+
+    .cont02{
+        width: 400px;
+    }
+    .opi01{
+        width: 400px;
+    }
+    .opi02{
+        width: 400px;
+    }
+    .opi03{
+        width: 400px;
+    }
+    .logof{
+        display: none;
+    }
+    .footer{
+        flex-direction: column;
+
+    }
+    .fp{
+        margin-left:-20px;
+        text-align: center;
+    }
+    .list-icono2{
+       margin-left: 80px;
+    }
+    .cont03{
+        align-items: center;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .pro-btn{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 400px;
+    }
+    .cont04{
+        align-items: center;
+        display: flex;
+        flex-direction: column-reverse;
+        width: 400px;
+    }   
+    .phototab{
+        width: 500px;
+    }
+    .photopc{
+        width: 500px;
+    }
+
+    .photocel{
+        width: 500px;
+    }
+   
+ 
+}
